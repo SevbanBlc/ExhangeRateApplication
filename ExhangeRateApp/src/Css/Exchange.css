@@ -1,0 +1,9 @@
+.Container{
+  width:30%;
+  height:300px;
+  border: 2px solid red;
+  margin:0;
+  padding:0;
+  align-items: center;
+  justify-content: center;
+}

@@ -1,0 +1,41 @@
+.currency{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.amount{
+  width:80px;
+  height:25px;
+  background-color:transparent;
+  margin-right: 10px;
+}
+.from-currency-option{
+  width:70px;
+  height:30px;
+  margin-right:10px;
+}
+
+.to-currency-option{
+  width:70px;
+  height:30px;
+  margin-right:10px;
+  margin-left: 10px;
+}
+
+.result{
+  width:80px;
+  height:25px;
+  background-color:transparent;
+  margin-right: 10px;
+}
+
+.button{
+  width:80px;
+  height:25px;
+
+  background-color:transparent;
+  margin-right: 10px;
+}
