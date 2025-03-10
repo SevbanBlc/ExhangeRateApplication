@@ -6,12 +6,12 @@
 
 ### 2. cd {projectname}
 
-### 3. <npm install>
+### 3. npm install
 
-### 4. <npm react-icons install>
+### 4. npm react-icons install
 
-### 5. <npm axios install>
+### 5. npm axios install
 
-### It's ready
+## It's ready
 
 #### https://freecurrencyapi.com/
