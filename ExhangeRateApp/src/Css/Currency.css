@@ -9,8 +9,9 @@
 .amount{
   width:80px;
   height:25px;
-  background-color:transparent;
+  background-color:white;
   margin-right: 10px;
+  color: #ff0707;
 }
 .from-currency-option{
   width:70px;
@@ -28,8 +29,9 @@
 .result{
   width:80px;
   height:25px;
-  background-color:transparent;
+  background-color:white;
   margin-right: 10px;
+  color: #ff0707;
 }
 
 .button{
