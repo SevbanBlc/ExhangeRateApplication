@@ -1,4 +1,4 @@
-# ExhangeRateApplication
+# ExchangeRateApplication
 
 ## How to Install
 
