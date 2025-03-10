@@ -4,7 +4,7 @@
 
 ### 1. <npm create vite@latest> name ,  react , javascript
 
-### 2. <cd {projectname}>
+### 2. cd {projectname}
 
 ### 3. <npm install>
 
