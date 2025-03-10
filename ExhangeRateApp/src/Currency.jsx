@@ -18,7 +18,7 @@ function Currency(props) {
   {
   const response =
     await axios.get(`${baseUrl}?apikey=${apiKey}&base_currency=${fromCurrency}`);
-    const result = (response.data.data[toCurrency] * amount).toFixed(2)f
+    const result = (response.data.data[toCurrency] * amount).toFixed(2)
     setResult(result)
 
 
