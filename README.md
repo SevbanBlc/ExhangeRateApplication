@@ -11,9 +11,9 @@
 
 ### 3. `npm install`
 
-### 4. `npm react-icons install`
+### 4. `npm  install react-icons`
 
-### 5. `npm axios install`
+### 5. `npm install axios `
 
 ## It's ready
 
