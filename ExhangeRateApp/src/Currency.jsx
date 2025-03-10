@@ -35,6 +35,7 @@ function Currency(props) {
         <option value="USD">USD</option>
         <option value="EUR">EUR</option>
         <option value="TL">TRY</option>
+        <option value="NOK">NOK</option>
       </select>
       <HiMiniArrowRightCircle style={{fontSize: '30px'}} />
       <select
@@ -43,6 +44,7 @@ function Currency(props) {
         <option value="TL">TRY</option>
         <option value="EUR">EUR</option>
         <option value="USD">USD</option>
+        <option value="NOK">NOK</option>
       </select>
 
       <input
